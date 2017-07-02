@@ -3,10 +3,9 @@
 
 													                                                                                         
 				          YTU BİLGİSAYAR AĞ TEKNOLOJİLERİ ÖDEVİ                         					
-					      	  ABDULLAH KAYAHAN		                                    					
-															                         Birden fazla chat room üzerinde birden fazla kullanıcının kullanabileceği bir chat uygulaması                                                          
+					      	  ABDULLAH KAYAHAN		                                    	
 
-															
+Birden fazla chat room üzerinde birden fazla kullanıcının kullanabileceği bir chat uygulaması                                              													
 	Proje Dosyaları: 												
 		1- server.py: Server bağlantısının yapıldığı dosyamızdır. Bu dosya bir port açarak dinlemeye başlar.	
 		     siniflar.py isimli dosyada bulunan Selection,Room ve User sınıflarını kullanarak multiple		
