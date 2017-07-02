@@ -2,9 +2,9 @@
 
 
 													                                                                                         
-				                                   BİLGİSAYAR AĞ TEKNOLOJİLERİ ÖDEV-1-	                            					
-					                                          	ABDULLAH KAYAHAN		                                    					
-															                                                                                          
+				          YTU BİLGİSAYAR AĞ TEKNOLOJİLERİ ÖDEVİ                         					
+					      	  ABDULLAH KAYAHAN		                                    					
+															                         Birden fazla chat room üzerinde birden fazla kullanıcının kullanabileceği bir chat uygulaması                                                          
 
 															
 	Proje Dosyaları: 												
